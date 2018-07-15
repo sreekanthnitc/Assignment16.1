@@ -1,0 +1,10 @@
+1.	You survey households in your area to find the average rent they are paying. Find the
+                standard deviation from the following data:
+                          $1550, $1700, $900, $850, $1000, $950.
+                     
+                    Sum =  1550 + 1700+900+850+1000+950 = 6950
+                    Mean = 6950/6 = 1158
+                    Variance = (1550 – 1158) ** 2 + (1700 -1158)**2 +(900-1158)**2 + (850-1158)**2 + 
+                                         (1000-1158)**2+(950-1158)**2/6
+                                       = 153664 + 293764+66564+94864+24964+43264/6 = 112847
+                    Standard Deviation = root of 112847 = 335.927
